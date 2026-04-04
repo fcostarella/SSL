@@ -1,2 +1,2 @@
-Estandar: 202311
+Version de estandar de C: 202311
 Hello, World!
